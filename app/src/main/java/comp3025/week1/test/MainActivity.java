@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView _welcomeLabel;
     private Button _btnClickMe;
     private EditText _userInputTextBox;
-//overriding the oncreate  
+//overriding the oncreate
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
